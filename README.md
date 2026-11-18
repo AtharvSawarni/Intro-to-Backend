@@ -1,4 +1,4 @@
-# Node API with MongoDB
+# Intro to Backend with MongoDB
 
 A beginner CRUD REST API built with Node.js, Express and MongoDB (Mongoose).
 
